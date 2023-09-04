@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @justyn29
+- 👀 I’m interested in softwre development
+- 🌱 I’m currently learning javascript 
+- 📫 How to reach me sjustyn29@gmail.com
